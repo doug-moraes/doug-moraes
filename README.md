@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou o Douglas! 👋</h1>
 <h3 align="center">Estudante de Engenharia de Software | Estagiário Desenvolvedor SAP ABAP</h3>
 
-<br>
 ## 👨‍💻 Sobre mim
 
 - 🎓 Sou estudante de Engenharia de Software na Universidade Positivo.
