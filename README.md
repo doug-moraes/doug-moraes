@@ -23,14 +23,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doug-moraes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 
 - **LinkedIn:** [in/douglasluan](https://www.linkedin.com/in/douglasluan)
