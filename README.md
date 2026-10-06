@@ -6,7 +6,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Sou estudante de Engenharia de Software na **Universidade Positivo**.
-- 💼 Atualmente atuo como **Estagiário Desenvolvedor SAP ABAP** na **Hob IT**, focado em aprender e crescer dentro do ecossistema SAP.
+- 💼 Atualmente atuo como **Desenvolvedor Junior SAP ABAP** na **Hob IT**, focado em aprender e crescer dentro do ecossistema SAP.
 - 🚀 Tenho forte interesse em desenvolvimento backend, automações e novas tecnologias.
 
 ---
