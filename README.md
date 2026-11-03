@@ -6,7 +6,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Sou estudante de Engenharia de Software na **Universidade Positivo**, com foco em desenvolvimento, arquitetura de sistemas e metodologias ágeis.
-- 💼 Atuo como **Desenvolvedor SAP ABAP** (estágio) na **Hob IT**, trabalhando com integrações e customizações no ecossistema **SAP S/4HANA**, usando BAPIs e APIs REST.
+- 💼 Atuo como **Desenvolvedor SAP ABAP** na **Hob IT**, trabalhando com integrações e customizações no ecossistema **SAP S/4HANA**, usando BAPIs e APIs REST.
 - 🚀 Tenho forte interesse em desenvolvimento backend, automações e novas tecnologias.
 
 ---
